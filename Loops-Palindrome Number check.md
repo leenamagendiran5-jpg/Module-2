@@ -36,3 +36,6 @@ else:
 
 
 ## Result
+
+The program successfully checks whether a given number is a palindrome using loops.
+
